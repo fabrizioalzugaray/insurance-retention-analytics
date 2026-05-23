@@ -1,0 +1,76 @@
+{
+  "name": "Insurance Retention Analytics — Corporate Theme",
+  "dataColors": [
+    "#2E86AB",
+    "#E63946",
+    "#F4A261",
+    "#06A77D",
+    "#6C757D",
+    "#003566",
+    "#9D0208",
+    "#FFC300",
+    "#1B5A7B",
+    "#C1121F"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#1B1B1E",
+  "tableAccent": "#2E86AB",
+  "good": "#06A77D",
+  "neutral": "#F4A261",
+  "bad": "#E63946",
+  "maximum": "#06A77D",
+  "center": "#F4A261",
+  "minimum": "#E63946",
+  "null": "#6C757D",
+  "textClasses": {
+    "label":          { "fontSize": 10, "fontFace": "Segoe UI",           "color": "#6C757D" },
+    "callout":        { "fontSize": 36, "fontFace": "Segoe UI Bold",      "color": "#1B1B1E" },
+    "header":         { "fontSize": 12, "fontFace": "Segoe UI Semibold",  "color": "#6C757D" },
+    "title":          { "fontSize": 16, "fontFace": "Segoe UI Bold",      "color": "#1B1B1E" },
+    "largeTitle":     { "fontSize": 24, "fontFace": "Segoe UI Bold",      "color": "#1B1B1E" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E5E7EB" } }, "radius": 8 }],
+        "visualHeader": [{ "show": false }],
+        "title": [{
+          "fontColor": { "solid": { "color": "#1B1B1E" } },
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 13
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#6C757D" } }, "fontSize": 11 }],
+        "labels":         [{ "color": { "solid": { "color": "#1B1B1E" } }, "fontSize": 36, "fontFamily": "Segoe UI Bold" }]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "legend":     [{ "show": true, "position": "Bottom", "fontSize": 10 }],
+        "dataPoint":  [{ "defaultColor": { "solid": { "color": "#2E86AB" } } }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#2E86AB" } } }],
+        "labels":    [{ "show": true, "color": { "solid": { "color": "#1B1B1E" } }, "fontSize": 10 }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#E63946" } } }],
+        "labels":    [{ "show": true, "color": { "solid": { "color": "#1B1B1E" } }, "fontSize": 10 }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "values":       [{ "fontSize": 10, "fontColor": { "solid": { "color": "#1B1B1E" } } }],
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#6C757D" } }, "fontSize": 10, "fontFamily": "Segoe UI Semibold" }]
+      }
+    }
+  }
+}
