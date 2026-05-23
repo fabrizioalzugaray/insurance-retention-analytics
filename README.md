@@ -202,7 +202,7 @@ Cosas que dejé fuera del scope pero serían el siguiente paso natural:
 
 ## Contacto
 
-**Fabrizio André Alzugaray Borja**
+**Fabrizio André Alzugaray Borja**<br>
 Ingeniería Industrial | Data Analytics | Power BI | Python | SQL
 
 - LinkedIn: [linkedin.com/in/fabrizio-andre-alzugaray-borja](https://www.linkedin.com/in/fabrizio-andre-alzugaray-borja-98a90a295/)
