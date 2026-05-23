@@ -208,8 +208,7 @@ Ingeniería Industrial | Data Analytics | Power BI | Python | SQL
 - LinkedIn: [linkedin.com/in/fabrizio-andre-alzugaray-borja](https://www.linkedin.com/in/fabrizio-andre-alzugaray-borja-98a90a295/)
 - GitHub: [github.com/fabrizioalzugaray](https://github.com/fabrizioalzugaray)
 
-Si tienes comentarios, sugerencias o deseas conversar sobre el proyecto, puedes escribirme por LinkedIn. Aprecio cualquier retroalimentación constructiva.
----
+Si tienes comentarios, sugerencias o deseas conversar sobre el proyecto, puedes escribirme por LinkedIn. Aprecio cualquier retroalimentación constructiva.---
 
 ## Licencia
 
