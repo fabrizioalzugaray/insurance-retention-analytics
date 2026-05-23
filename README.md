@@ -203,7 +203,7 @@ Cosas que dejé fuera del scope pero serían el siguiente paso natural:
 ## Contacto
 
 **Fabrizio André Alzugaray Borja**
-Junior Data Analyst · Trujillo, Perú
+Ingeniería Industrial | Data Analytics | Power BI | Python | SQL
 
 - LinkedIn: [linkedin.com/in/fabrizio-andre-alzugaray-borja](https://www.linkedin.com/in/fabrizio-andre-alzugaray-borja-98a90a295/)
 - GitHub: [github.com/fabrizioalzugaray](https://github.com/fabrizioalzugaray)
